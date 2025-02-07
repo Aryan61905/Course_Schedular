@@ -1,0 +1,15 @@
+Wed Dec 15 11:57:43 EST 2021 : Apache Derby Network Server - 10.15.2.0 - (1873585) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Wed Dec 15 11:57:43 EST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-017d-bf07-3f64-ffff95fc99e0 
+on database directory C:\Users\Aryan\Desktop\Derby Databases\CourseSchedulerDBabr5813 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/Aryan/Desktop/db-derby-10.15.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+user.dir=C:\Users\Aryan\Desktop\db-derby-10.15.2.0-bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\Aryan\Desktop\Derby Databases
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Dec 15 12:48:28 EST 2021: Shutting down Derby engine
